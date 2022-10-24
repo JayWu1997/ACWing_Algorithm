@@ -1,4 +1,4 @@
-package cn.jay.huawei.flower;
+package cn.jay.oj.niuke.huawei.flower;
 
 import java.util.Scanner;
 

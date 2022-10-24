@@ -1,4 +1,4 @@
-package cn.jay.huawei.HJ16;
+package cn.jay.oj.niuke.huawei.HJ16;
 
 import java.util.Scanner;
 

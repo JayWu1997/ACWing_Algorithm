@@ -1,4 +1,4 @@
-package cn.jay.huawei.HJ97;
+package cn.jay.oj.niuke.huawei.HJ97;
 
 import java.io.IOException;
 import java.text.DecimalFormat;

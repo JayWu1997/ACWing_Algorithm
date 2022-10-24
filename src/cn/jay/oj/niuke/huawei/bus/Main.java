@@ -1,4 +1,4 @@
-package cn.jay.huawei.bus;
+package cn.jay.oj.niuke.huawei.bus;
 
 import java.util.Scanner;
 
