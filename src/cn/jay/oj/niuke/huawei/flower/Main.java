@@ -28,6 +28,10 @@ public class Main {
         // 递归退出条件， 花圃放满了，放满表示一种情况成立，把result加一
         if(index == m){
             result++;
+            for (int i = 0; i < m; i++) {
+                System.out.print(arr[i] + " ");
+            }
+            System.out.println();
             return;
         }
 
